@@ -1,1 +1,1 @@
-![](https://feeday.github.io/img/wxapp.png)
+![](https://github.com/feeday/Money/blob/master/qr.png)
