@@ -1,1 +1,1 @@
-![](https://github.com/feeday/Money/blob/master/qr.png)
+![](https://github.com/tcq233/Money/blob/master/qr.png)
